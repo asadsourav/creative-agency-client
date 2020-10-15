@@ -1,0 +1,10 @@
+.header-container{
+    height: 500px;
+    background-image: url('../../../images/headerbg.png');
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+}
+.header-container h1{
+    font-size:48px
+}
