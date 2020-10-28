@@ -1,23 +1,21 @@
-This project was bootstrapped with .
 
-### Creative Agency Website
+
+# Creative Agency Website
 
 This a dynamic website which displays different services provided by an online agency. The styling of this website is very impressive and eye-cathing with many functionalities. You may have a look of this site on the link below:
 
 ## [Live Link](https://creative-agency-f621f.firebaseapp.com/)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
+## `Key Features`
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- user can order any service after login with google
+- has a dashboard for users where logged-in user can see his ordered services
+- has a dashboard for admins where an admin can add new service, add new admin and see all
+  ordered services.
 
-### `npm run build`
+### `Technology used`
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
