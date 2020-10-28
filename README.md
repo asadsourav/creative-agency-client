@@ -1,10 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with .
 
-## Available Scripts
+### Creative Agency Website
 
-In the project directory, you can run:
+This a dynamic website which displays different services provided by an online agency. The styling of this website is very impressive and eye-cathing with many functionalities. You may have a look of this site on the link below:
 
-### `npm start`
+## [Live Link](https://creative-agency-f621f.firebaseapp.com/)
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
